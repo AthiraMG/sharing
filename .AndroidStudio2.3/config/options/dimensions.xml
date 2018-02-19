@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@168dpi" x="960" y="505" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@168dpi" x="586" y="75" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@168dpi" x="586" y="281" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@168dpi" x="1430" y="617" />
+    <location key="#app.0.0.1920.1080@168dpi" x="631" y="0" />
+    <location key="SettingsEditor.0.0.1920.1080@168dpi" x="61" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@168dpi" x="637" y="275" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080@168dpi" x="535" y="225" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080@168dpi" x="536" y="225" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@168dpi" x="323" y="0" />
+    <location key="Github.ShareDialog.0.0.1920.1080@168dpi" x="694" y="327" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@168dpi" width="372" height="190" />
+    <size key="#app.0.0.1920.1080@168dpi" width="648" height="1157" />
+  </component>
+</application>

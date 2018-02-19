@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SHARE</string>
+    <string name="welcome_to_share">WELCOME TO SHARE</string>
+    <string name="already_a_member">ALREADY A MEMBER?</string>
+    <string name="create_a_sheet">CREATE A SHEET</string>
+    <string name="create">CREATE</string>
+    <string name="login">LOGIN</string>
+    <string name="new_to_share">NEW TO SHARE</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
