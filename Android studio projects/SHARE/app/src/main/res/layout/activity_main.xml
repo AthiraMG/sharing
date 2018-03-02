@@ -83,8 +83,8 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="84dp"
-        android:layout_height="35dp"
+        android:layout_width="86dp"
+        android:layout_height="38dp"
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
@@ -98,7 +98,8 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.536" />
+        app:layout_constraintVertical_bias="0.536"
+        tools:layout_editor_absoluteX="270dp" />
 
     <TextView
         android:id="@+id/textView4"
@@ -120,8 +121,8 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="85dp"
-        android:layout_height="34dp"
+        android:layout_width="89dp"
+        android:layout_height="41dp"
         android:layout_marginBottom="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
@@ -135,5 +136,6 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.672" />
+        app:layout_constraintVertical_bias="0.672"
+        tools:layout_editor_absoluteX="268dp" />
 </android.support.constraint.ConstraintLayout>

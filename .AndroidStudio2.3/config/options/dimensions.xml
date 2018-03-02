@@ -3,7 +3,7 @@
     <location key="WELCOME_SCREEN.0.0.1920.1080@168dpi" x="960" y="505" />
     <location key="FileChooserDialogImpl.0.0.1920.1080@168dpi" x="586" y="75" />
     <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@168dpi" x="586" y="281" />
-    <location key="ProcessPopupWindow.0.0.1920.1080@168dpi" x="1430" y="617" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@168dpi" x="1430" y="15" />
     <location key="#app.0.0.1920.1080@168dpi" x="631" y="0" />
     <location key="SettingsEditor.0.0.1920.1080@168dpi" x="61" y="0" />
     <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@168dpi" x="637" y="275" />
@@ -11,7 +11,37 @@
     <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080@168dpi" x="536" y="225" />
     <location key="CommitChangelistDialog2.0.0.1920.1080@168dpi" x="323" y="0" />
     <location key="Github.ShareDialog.0.0.1920.1080@168dpi" x="694" y="327" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@168dpi" x="668" y="7" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080@168dpi" x="780" y="158" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@168dpi" x="498" y="61" />
+    <location key="IdeErrosDialog.0.0.1920.1080@168dpi" x="331" y="269" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@168dpi" x="602" y="225" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@168dpi" x="409" y="0" />
+    <location key="#Project_Structure.0.0.1920.1080@168dpi" x="230" y="0" />
+    <location key="com.android.tools.idea.gradle.structure.editors.MavenDependencyLookupDialog.0.0.1920.1080@168dpi" x="413" y="260" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@168dpi" x="624" y="0" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@168dpi" x="493" y="81" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@168dpi" x="560" y="262" />
+    <location key="AndroidProcessChooserDialog.0.0.1920.1080@168dpi" x="802" y="206" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080@168dpi" x="342" y="361" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1080@168dpi" x="610" y="310" />
+    <location key="AndroidThemeDialog.0.0.1920.1080@168dpi" x="230" y="0" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080@168dpi" x="552" y="311" />
+    <location key="GitCloneDialog.0.0.1920.1080@168dpi" x="567" y="354" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@168dpi" x="401" y="136" />
     <size key="ProcessPopupWindow.0.0.1920.1080@168dpi" width="372" height="190" />
-    <size key="#app.0.0.1920.1080@168dpi" width="648" height="1157" />
+    <size key="#app.0.0.1920.1080@168dpi" width="648" height="1128" />
+    <size key="lint.notification.0.0.1920.1080@168dpi" width="810" height="717" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080@168dpi" width="806" height="829" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@168dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@168dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@168dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@168dpi" width="0" height="0" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@168dpi" width="1102" height="1092" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@168dpi" width="1830" height="407" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@168dpi" width="1830" height="407" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@168dpi" width="1830" height="407" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@168dpi" width="1830" height="407" />
+    <size key="javadoc.popup.0.0.1920.1080@168dpi" width="781" height="237" />
   </component>
 </application>
